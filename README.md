@@ -2,7 +2,8 @@
 
 The Titanic challenge on Kaggle is a competition in which the goal is to predict the survival or the death of a given passenger based on a set of variables describing him such as his age, his sex, or his passenger class on the boat.
 
-The Challenge
+Challenge:
+
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
